@@ -1,66 +1,41 @@
-\# RuangRupa Furniture
-
-
+# RuangRupa Furniture
 
 Website e-commerce furnitur responsif yang dibangun sebagai proyek portofolio. RuangRupa menyediakan katalog produk, keranjang belanja, pemesanan, pelacakan pesanan, serta pengelolaan toko.
 
+## Demo
 
+https://ruangrupa.pages.dev/
 
-\## Demo
+## Fitur
 
+- Katalog dan detail produk furnitur
+- Keranjang belanja dan pemesanan
+- Akun pelanggan dan riwayat pesanan
+- Pelacakan status pesanan
+- Dashboard admin
+- Pengelolaan produk, stok, dan promosi
+- Integrasi pembayaran Midtrans Sandbox
+- Tampilan responsif untuk desktop dan perangkat mobile
 
+## Teknologi
 
-\[https://ruangrupa.pages.dev/](https://ruangrupa.pages.dev/)
+- HTML, CSS, dan JavaScript
+- Node.js
+- Cloudflare Pages dan Workers
+- Cloudflare D1
+- Cloudflare R2
+- Midtrans Sandbox
 
+## Menjalankan secara lokal
 
+    npm install
+    npm run dev:local
 
-\## Fitur
+## Catatan
 
+Database, kredensial, dan konfigurasi layanan Cloudflare tidak disertakan dalam repository. Gunakan konfigurasi dan environment variable milik Anda sendiri.
 
+## Pembuat
 
-\- Katalog dan detail produk furnitur
-
-\- Keranjang belanja dan pemesanan
-
-\- Akun pelanggan dan riwayat pesanan
-
-\- Pelacakan status pesanan
-
-\- Dashboard admin
-
-\- Pengelolaan produk, stok, dan promosi
-
-\- Integrasi pembayaran Midtrans Sandbox
-
-\- Tampilan responsif untuk desktop dan perangkat mobile
-
-
-
-\## Teknologi
-
-
-
-\- HTML, CSS, dan JavaScript
-
-\- Node.js
-
-\- Cloudflare Pages dan Workers
-
-\- Cloudflare D1
-
-\- Cloudflare R2
-
-\- Midtrans Sandbox
-
-
-
-\## Menjalankan secara lokal
-
-
-
-```bash
-
-npm install
-
-npm run dev:local
-
+I Made Oka Vivikananda  
+https://github.com/MadeOka1stone
