@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+
+# Local databases and user data
+data/
+*.sqlite
+*.sqlite3
+
+# Cloudflare local files and account configuration
+.wrangler/
+.cloudflare-config/
+wrangler.jsonc
+wrangler.worker.jsonc
+
+# Local caches and generated output
+.npm-cache/
+outputs/
+
+# Internal Codex and handoff files
+.openai/
+PANDUAN-PENYERAHAN.md
+
+# Unrelated demo
+mbok-tut-endek-demo/
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.vscode/
