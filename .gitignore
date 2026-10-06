@@ -32,3 +32,14 @@ mbok-tut-endek-demo/
 .DS_Store
 Thumbs.db
 .vscode/
+
+
+# Cloudflare local secrets
+.dev.vars
+.dev.vars.*
+
+# Backup files
+backup/
+backups/
+*.bak
+*.dump
