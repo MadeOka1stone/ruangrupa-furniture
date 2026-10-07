@@ -16,6 +16,9 @@ https://ruangrupa.pages.dev/
 - Pengelolaan produk, stok, dan promosi
 - Integrasi pembayaran Midtrans Sandbox
 - Tampilan responsif untuk desktop dan perangkat mobile
+- Ulasan dan penilaian produk
+- Pilihan varian warna produk
+- Pengelolaan stok untuk setiap warna
 
 ## Teknologi
 
